@@ -1,5 +1,6 @@
 div {
-  border: 1px;
-  width: 300px;
-  border-color: black;
+  border-top-width: 10px;
+  border-right-width: 1em;
+  border-bottom-width: thick;
+  border-left-width: thin;
 }
